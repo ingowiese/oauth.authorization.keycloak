@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.ingowiese</groupId>
-	<artifactId>oauth.rest.authorization</artifactId>
+	<artifactId>oauth.authorization.keycloak</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>oauth.rest.autorization</name>
 	<description>Demo project for Spring Boot, Rest, OAuth</description>
